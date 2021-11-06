@@ -1,0 +1,10 @@
+script_config:
+  instance_name: "INSTANCE NAME"
+  username: "FEENICS USER NAME"
+  password: "PASSWORD"
+  auth_url: "https://keepapi.feenicshosting.com/token"
+  broker_host: "keepevents.feenicshosting.com"
+  broker_port: 443
+  broker_path: "/mqtt"
+  log_level: DEBUG #CRITICAL, ERROR, WARNING, INFO, DEBUG, NOTSET
+  logger_name: "FEENICS"

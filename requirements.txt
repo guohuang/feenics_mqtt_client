@@ -1,0 +1,4 @@
+pyyaml==5.4.1
+requests==2.25.1
+paho-mqtt==1.5.1
+bson==0.5.10
